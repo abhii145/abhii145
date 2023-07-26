@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Front End developer.
 --------------------------
-
 *   🌍  I'm based in Mumbai, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-abhishek-yadav.netlify.app/'>Portfolio</a>
+* ✉️  You can contact me at [abhiy145@gmail.com](mailto:abhiy145@gmail.com)
 *   🤝  I'm open to collaborating on exciting projects as a developer
 
 ### Skills
