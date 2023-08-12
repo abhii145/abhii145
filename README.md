@@ -9,7 +9,7 @@ I am a Front End developer.
 *   🤝  I'm open to collaborating on exciting projects as a developer
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,mongodb,prisma,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,mongodb,prisma,docker,git)]
 
 
 
