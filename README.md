@@ -9,7 +9,7 @@ I am a Full Stack developer(MERN).
 *   🤝  I'm open to collaborating on exciting projects as a developer
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,mongodb,docker,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,redux,mongodb,docker,git)
 
 
 
